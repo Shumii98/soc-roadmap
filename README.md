@@ -537,54 +537,6 @@ This is a **solo training program**, but contributions are welcome!
 
 ---
 
-## 💬 Join Our WhatsApp Community
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-
-<br/><br/>
-
-### 🚀 **FREE & Premium IT Learning Resources — All in One Channel**
-
-<a href="https://whatsapp.com/channel/0029VbCTIha7YScxsJGpj60Y">
-<img src="https://img.shields.io/badge/👉_JOIN_NOW-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E" height="50" alt="Join WhatsApp Channel"/>
-</a>
-
-<br/><br/>
-
-</div>
-
-> 📢 **We provide FREE & Premium IT learning resources** — cybersecurity PDFs, AI tools, coding projects, cloud computing materials, networking labs, desktop support notes, interview preparation content, practical tutorials, and career-focused tech education to help students and beginners build real-world IT skills.
-
-| 📚 What You Get | 🎯 Topics Covered |
-|:----------------|:-------------------|
-| 🔒 Cybersecurity PDFs & Labs | Pentesting, SOC, Blue Team, Red Team |
-| 🤖 AI Tools & Resources | ChatGPT, Claude, AI automation workflows |
-| 💻 Coding Projects | Python, JavaScript, full-stack development |
-| ☁️ Cloud Computing Materials | AWS, Azure, GCP labs & study guides |
-| 🌐 Networking Labs | CCNA, CompTIA Network+, packet analysis |
-| 🖥️ Desktop Support Notes | IT support, helpdesk, troubleshooting |
-| 📝 Interview Preparation | Resume tips, STAR answers, mock Q&A |
-| 🎓 Certification Materials | Security+, CySA+, AZ-500, AWS SAA |
-| 🛠️ Practical Tutorials | Hands-on labs, real-world projects |
-| 📈 Career-Focused Education | Job hunting, portfolio building, skills roadmaps |
-
-<div align="center">
-
-**Whether you want to learn cybersecurity, networking, cloud computing, coding, system administration, AI tools, or prepare for IT jobs and certifications — this channel shares valuable educational content, practical labs, and premium study materials for tech learners.**
-
-<br/>
-
-### 📲 [**Click Here to Join the WhatsApp Channel →**](https://whatsapp.com/channel/0029VbCTIha7YScxsJGpj60Y)
-
-<br/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 📜 License
 
